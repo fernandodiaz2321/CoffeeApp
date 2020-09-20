@@ -114,6 +114,58 @@ h1,h2,h3,h4,h5,h6{
 	z-index: 999999 !important;
 }
 
+.info-producto{
+	background-color: #eee;
+	padding:20px 0 40px 20px;
+	
+}
+
+.ingre-producto img{
+	width: 220px;
+	transform: translateY(-5%);
+	margin-left: -50px;
+	margin-top: -100%;
+}
+.precio-info{
+text-align: center;
+padding-top: 5px;
+}
+
+.precio-info span{
+	color: var(--negro);
+	font-size: 22px;
+	font-weight: 600;
+}
+
+.bg-menu{
+	background-color: var(--verde);
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+.list-menu i{
+	color: var(--verde);
+}
+
+.list-menu{
+	font-size: 14px;
+	margin-top: 0;
+}
+
+.panel.panel-left{
+	background-color: #fafafa;
+}
+
+
+.panel-left .list-menu ul{
+	background-color: transparent !important;
+}
+
+
+
+
+
 
 
 

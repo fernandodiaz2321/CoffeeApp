@@ -6,6 +6,9 @@ var app = new Framework7({
 	view: {
         pushState: false
     },
+	panel:{
+		swipe:true
+	},
 	cache:false,
 	cacheDuration: 0,
 	modalTitle: 'CoffeeApp',
